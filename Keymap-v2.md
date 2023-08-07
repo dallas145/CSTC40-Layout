@@ -126,8 +126,8 @@
 		
 
 ------
-[pic0]: https://github.com/dallas145/MyOwnNotes/blob/main/source/keymap%202.0/keymap2-0.png?raw=true
-[pic1]: https://github.com/dallas145/MyOwnNotes/blob/main/source/keymap%202.0/keymap2-1.png?raw=true
-[pic2]: https://github.com/dallas145/MyOwnNotes/blob/main/source/keymap%202.0/keymap2-2.png?raw=true
-[pic3]: https://github.com/dallas145/MyOwnNotes/blob/main/source/keymap%202.0/keymap2-3.png?raw=true
-[pic4]: https://github.com/dallas145/MyOwnNotes/blob/main/source/keymap%202.0/keymap2-4.png?raw=true
+[pic0]: https://github.com/dallas145/CSTC40-Layout/blob/main/source/keymap%202.0/keymap2-0.png?raw=true
+[pic1]: https://github.com/dallas145/CSTC40-Layout/blob/main/source/keymap%202.0/keymap2-1.png?raw=true
+[pic2]: https://github.com/dallas145/CSTC40-Layout/blob/main/source/keymap%202.0/keymap2-2.png?raw=true
+[pic3]: https://github.com/dallas145/CSTC40-Layout/blob/main/source/keymap%202.0/keymap2-3.png?raw=true
+[pic4]: https://github.com/dallas145/CSTC40-Layout/blob/main/source/keymap%202.0/keymap2-4.png?raw=true

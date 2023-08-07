@@ -93,9 +93,9 @@
     | output | \ |
 
 -----
-[layer00]:https://github.com/dallas145/MyOwnNotes/blob/main/source/keymap%201.0/keymap00.png?raw=true
-[layer01]:https://github.com/dallas145/MyOwnNotes/blob/main/source/keymap%201.0/keymap01.png?raw=true
-[layer02]:https://github.com/dallas145/MyOwnNotes/blob/main/source/keymap%201.0/keymap02.png?raw=true
-[layer03]:https://github.com/dallas145/MyOwnNotes/blob/main/source/keymap%201.0/keymap03.png?raw=true
-[layer04]:https://github.com/dallas145/MyOwnNotes/blob/main/source/keymap%201.0/keymap04.png?raw=true
-[layer05]:https://github.com/dallas145/MyOwnNotes/blob/main/source/keymap%201.0/keymap05.png?raw=true
+[layer00]:https://github.com/dallas145/CSTC40-Layout/blob/main/source/keymap%201.0/keymap00.png?raw=true
+[layer01]:https://github.com/dallas145/CSTC40-Layout/blob/main/source/keymap%201.0/keymap01.png?raw=true
+[layer02]:https://github.com/dallas145/CSTC40-Layout/blob/main/source/keymap%201.0/keymap02.png?raw=true
+[layer03]:https://github.com/dallas145/CSTC40-Layout/blob/main/source/keymap%201.0/keymap03.png?raw=true
+[layer04]:https://github.com/dallas145/CSTC40-Layout/blob/main/source/keymap%201.0/keymap04.png?raw=true
+[layer05]:https://github.com/dallas145/CSTC40-Layout/blob/main/source/keymap%201.0/keymap05.png?raw=true
